@@ -22,4 +22,7 @@ _**bold and italic**_
 
 
 If a line is too long, then we can move to under line input two space bar.  
-dkakadfjoaemfag
+Like this, if input two space bar after the line and press enter, then we can move another line.
+
+
+
