@@ -15,3 +15,10 @@ To do list
 3. third
 
 [link_to_google](https://www.google.com/)
+
+**bold**
+_italic_
+_**bold and italic**_
+
+
+If a line is too long, then we can move to under line input  two space bar.
